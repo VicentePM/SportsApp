@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trabajo2T</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <array name="lista">
+        <item>Socio</item>
+        <item>Abonado</item>
+        <item>Aficionado</item>
+        <item>Simpatizante</item>
+        <item>Otro</item>
+    </array>
+</resources>
